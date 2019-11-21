@@ -21,5 +21,8 @@
     <ClInclude Include="Asset.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Wizard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
